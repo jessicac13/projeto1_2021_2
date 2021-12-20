@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g -Wl,--enable-auto-import CMakeFiles/projeto1_2021_2.dir/uteis.cpp.o CMakeFiles/projeto1_2021_2.dir/cliente.cpp.o CMakeFiles/projeto1_2021_2.dir/main.cpp.o CMakeFiles/projeto1_2021_2.dir/atendente.cpp.o -o projeto1_2021_2.exe -Wl,--out-implib,libprojeto1_2021_2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

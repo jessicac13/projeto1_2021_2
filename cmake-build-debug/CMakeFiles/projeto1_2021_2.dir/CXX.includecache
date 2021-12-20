@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/jessi/CLionProjects/28/12/projeto1_2021.2/atendente.cpp
+projeto1.h
+/cygdrive/c/Users/jessi/CLionProjects/28/12/projeto1_2021.2/projeto1.h
+
+/cygdrive/c/Users/jessi/CLionProjects/28/12/projeto1_2021.2/projeto1.h
+iostream
+-
+string
+-
+list
+-
+fstream
+-
+cerrno
+-
+sys/time.h
+-
+
